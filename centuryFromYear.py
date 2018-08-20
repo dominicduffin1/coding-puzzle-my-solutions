@@ -1,4 +1,4 @@
-#Century from year - years 1 - 9999
+#Century from year - years 1 ▶️ 9999
 
 year = input("Please enter a year between 1 and 9999. ")
 
